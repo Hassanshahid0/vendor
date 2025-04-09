@@ -1,0 +1,2 @@
+C:/Users/Hassan/Desktop/NXT/Source code/vendor_app/android/app/.cxx/RelWithDebInfo/264m4g42/x86_64/CMakeFiles/edit_cache.dir
+C:/Users/Hassan/Desktop/NXT/Source code/vendor_app/android/app/.cxx/RelWithDebInfo/264m4g42/x86_64/CMakeFiles/rebuild_cache.dir
